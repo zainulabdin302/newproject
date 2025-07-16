@@ -1,3 +1,3 @@
 # newproject
 this is my first git repository
-zain ul abdin
+NAME     zain ul abdin
